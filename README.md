@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, die Nacht ist wild und die Lichter sind hell
+> Gefangen im Netz der Liebe, mein Herz schlägt zu schnell
+> Dein Blick ist gefährlich, ziehst mich tief in dein'n Bann
+> Ich geb' dir alles von mir, weil ich nicht anders kann
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
