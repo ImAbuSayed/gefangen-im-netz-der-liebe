@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gefangen-im-netz-der-liebe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Gefangen im Netz der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gefangen-im-netz-der-liebe/) |
+| **Get License** | [License this song: Gefangen im Netz der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gefangen-im-netz-der-liebe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `325deccf7c9f25531c10af7ef131db047ad71b7b1f3a8074d8b66a75c2ab00c1` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
